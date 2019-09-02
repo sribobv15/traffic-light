@@ -1,4 +1,4 @@
-package com.ford.ibis.model;  
+package com.samplevechile.ibis.model;  
 /*
  * @Srinivas
  * @bobba
